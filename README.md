@@ -42,4 +42,4 @@ CHAVE_API = "key geraada"  # Key gerada pelo BotFather, altere para a sua
 python bot_scripts.py
 ```
 
-![alt text](jogo.png)
+![alt text](img.jpg)
