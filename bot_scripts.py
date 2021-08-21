@@ -47,7 +47,7 @@ def opcao3(mensagem):
 # VERIFICANDO SE FOI ENVIADO ALGMA MENSAGEM PARA O BOT
 def verificar(mensagem):
     global name
-    print(mensagem.from_user.id)
+
     name = f'{mensagem.from_user.first_name}'
     return True
 
