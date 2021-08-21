@@ -44,7 +44,7 @@ def opcao3(mensagem):
     return bot.send_message(mensagem.chat.id, "Valeu! Fabrício mandou um abraço de volta.")
 
 
-# VERIFICANDO SE FOI ENVIADO ALGMA MENSAGEM PARA O BOT
+# VERIFICANDO SE FOI ENVIADO ALGUMA MENSAGEM PARA O BOT
 def verificar(mensagem):
     global name
 
